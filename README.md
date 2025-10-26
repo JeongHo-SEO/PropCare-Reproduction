@@ -1,7 +1,8 @@
 # Reproduction version of PropCare
-- Some modifications have been made to the original code since some packages are updated.
+- This reproduction was made for new model: [Here](https://github.com/JeongHo-SEO/ARC-Rec)
+- Some modifications have been made to the original code since some packages are updated after the [paper code](https://github.com/mediumboat/PropCare) was released.
 - The updated Requirements (Environment) are listed in the "Requirements.txt" file.
-- datasets are in my Google Drive # provided later
+- Datasets are not served in this Repo.
 ---
 # Code repository for PropCare
 
