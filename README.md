@@ -2,9 +2,10 @@
 - This repository was created to reproduce [PropCare model](https://arxiv.org/abs/2310.20388), so that we can develop new model: [Here](https://github.com/JeongHo-SEO/ARC-Rec)
 - Some environments were changed due to the upgraded version after the [PropCare code](https://github.com/mediumboat/PropCare) was released.
 - The updated Requirements (Environment) are listed in the "Requirements.txt" file.
-- [Here](https://colab.research.google.com/drive/1PlTxo5HDECcR560vEK-gib69IAJEv4kt?usp=sharing) is the Colab links for this repository, and I used dataset only ML-100K.
-- Datasets are not served in this repository.. See [Here](https://drive.google.com/drive/folders/1YcXz8f0Uck6lcVRze51qLjvAcdnwHiox?usp=sharing)
-- IThe dataset path setting is: raw_data/arXiv-2012.09442v2/anc/data/synthetic/ML_100k_logrank100_offset5.0_scaling1.0")
+- I used dataset only ML-100K.
+- Datasets are not served in this repository. Download [Here](https://drive.google.com/drive/folders/1YcXz8f0Uck6lcVRze51qLjvAcdnwHiox?usp=sharing)
+- The dataset path setting is: raw_data/arXiv-2012.09442v2/anc/data/synthetic/ML_100k_logrank100_offset5.0_scaling1.0"
+- [Colab Code](https://colab.research.google.com/drive/1PlTxo5HDECcR560vEK-gib69IAJEv4kt?usp=sharing): Uncompleted version. You shoud only consider about the path of dataset.
 ---
 # Code repository for PropCare
 
