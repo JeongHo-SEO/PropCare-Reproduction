@@ -1,5 +1,7 @@
 # Reproduction version of PropCare
 - Some modifications have been made to the original code since some packages are updated.
+- The updated Requirements (Environment) are listed in the "Requirements.txt" file.
+- datasets are in my Google Drive # provided later
 ---
 # Code repository for PropCare
 
