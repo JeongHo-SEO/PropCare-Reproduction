@@ -3,7 +3,7 @@
 - Used Dataset: for only ML 100K
 - Some modifications have been made to the original code since some packages are updated after the [paper code](https://github.com/mediumboat/PropCare) was released.
 - The updated Requirements (Environment) are listed in the "Requirements.txt" file.
-- Datasets are not served in this Repo. See [Here](https://drive.google.com/drive/folders/1YcXz8f0Uck6lcVRze51qLjvAcdnwHiox?usp=drive_link)
+- Datasets are not served in this Repo. See [Here](https://drive.google.com/drive/folders/1YcXz8f0Uck6lcVRze51qLjvAcdnwHiox?usp=sharing)
 - The dataset path settings are: raw_data/arXiv-2012.09442v2/anc/data/synthetic/ML_100k_logrank100_offset5.0_scaling1.0")
 ---
 # Code repository for PropCare
