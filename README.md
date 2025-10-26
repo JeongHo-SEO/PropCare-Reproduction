@@ -1,5 +1,5 @@
 # Reproduction version of PropCare
-- This repository was created to reproduce (PropCare model)[https://arxiv.org/abs/2310.20388], so that we can develop new model: [Here](https://github.com/JeongHo-SEO/ARC-Rec)
+- This repository was created to reproduce [PropCare model](https://arxiv.org/abs/2310.20388), so that we can develop new model: [Here](https://github.com/JeongHo-SEO/ARC-Rec)
 - Some environments were changed due to the upgraded version after the [PropCare code](https://github.com/mediumboat/PropCare) was released.
 - The updated Requirements (Environment) are listed in the "Requirements.txt" file.
 - [Here](https://colab.research.google.com/drive/1PlTxo5HDECcR560vEK-gib69IAJEv4kt?usp=sharing) is the Colab links for this repository, and I used dataset only ML-100K.
