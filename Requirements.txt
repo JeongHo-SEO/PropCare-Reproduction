@@ -1,0 +1,14 @@
+# package installation, Updated ver.
+
+# python >= 3.6
+tensorflow >= 2.2.0
+numpy
+pandas
+tqdm 
+pathlib
+
+# also needed below packages
+tensorflow-probability
+tf_keras
+scikit-learn
+matplotlib

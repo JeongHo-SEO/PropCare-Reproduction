@@ -1,0 +1,12 @@
+# Not Upload to the github
+
+# dataset(too heavy)
+raw_data/
+
+# Virtual environment
+PropCare_env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.vscode/
+results/
